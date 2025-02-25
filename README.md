@@ -18,8 +18,6 @@
 **后台地址**😎
 http://localhost:8080/springboot/admin/dist/index.html
 
-管理员  abo 密码 abo
-
 **前台地址**😎
 
 http://localhost:8080/springboot547vl/front/index.html
