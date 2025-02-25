@@ -1,2 +1,46 @@
 # springboot_career_photography_library
-仓库包含三个基于Spring Boot开发的项目：IT职业生涯规划系统专注IT从业者职业生涯规划，提供职业测评、职业路径规划、IT技能评估、技术成长建议、行业趋势分析、岗位匹配、求职面试指导、简历优化、职业目标设定、IT职业发展策略等功能，助力IT行业人才制定科学的职业生涯规划，优化职业发展路径，提升职场竞争力🎯📊；摄影分享网站系统支持摄影作品上传、摄影图片管理、作品展示分享、摄影社区互动、摄影技巧交流、相册管理、作品分类、摄影作品点赞评论，打造专业的摄影分享平台📸✨；图书借还管理系统是一款高效的图书管理系统，专注图书借还，提供图书信息管理、图书分类、借阅登记、图书归还提醒、借阅记录查询、超期归还通知、借阅统计分析等功能，确保图书借还流程高效规范，提升图书管理系统的智能化水平📚📖。
+
+📦 SpringBoot多功能项目仓库 🎯
+
+本仓库汇集了三个基于 **SpringBoot** 开发的高实用性项目，涵盖职业规划、摄影分享、图书管理 等多个领域，适用于学习、开发实践和功能拓展！🚀
+
+💼 IT职业生涯规划系统 —— 提供职业测评、技能发展建议、求职指导、岗位推荐等功能，助力IT从业者高效规划职业路径 🎯📊
+
+📸 摄影分享网站系统 —— 支持图片上传、相册管理、社区互动、作品展示，打造摄影爱好者的创作与交流平台 📷✨
+
+📚 图书借还管理系统 —— 实现图书分类、借阅登记、归还提醒、借阅统计，提高图书馆管理效率 📖🏫
+所有项目均基于 **SpringBoot** 开发，结合 **MySQL、Redis、Vue.js** 等主流技术，具备良好的扩展性与实用性。
+
+**项目部署说明**✨：
+
+推荐使用：**谷歌浏览器**
+
+**后台地址**😎
+http://localhost:8080/springboot/admin/dist/index.html
+
+管理员  abo 密码 abo
+
+**前台地址**😎
+
+http://localhost:8080/springboot547vl/front/index.html
+
+在**src\main\resources\application.yml中**编辑数据库配置🎉										
+url: jdbc:mysql://127.0.0.1:3306/springboot?useUnicode=true&characterEncoding=utf-	8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+username: root
+password: 123456
+
+**文档预览**👀
+
+![](./images/预览.png)
+
+**其他项目合集**✨
+
+![](./images/1.png)
+
+![](./images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
+
+![](images/5.png)
