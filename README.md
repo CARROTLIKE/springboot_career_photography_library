@@ -24,7 +24,7 @@ http://localhost:8080/springboot/admin/dist/index.html
 http://localhost:8080/springboot547vl/front/index.html
 
 在**src\main\resources\application.yml中**编辑数据库配置🎉										
-url: jdbc:mysql://127.0.0.1:3306/springboot?useUnicode=true&characterEncoding=utf-	8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+url:jdbc:mysql://127.0.0.1:3306/springbootuseUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 username: root
 password: 123456
 
